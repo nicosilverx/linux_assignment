@@ -1,7 +1,7 @@
 # Linux Assignment for OSES
 
 
-Thi repository contains a single Yocto layer that includes two recipes: one for building and deploying the Linux user application (APP) and one for the Linux characther-based driver (cDD)
+This repository contains a single Yocto layer that includes two recipes: one for building and deploying the Linux user application (APP) and one for the Linux character-based driver (cDD)
 
 # How to clone the repository
 Simply clone the repository with the git command:
